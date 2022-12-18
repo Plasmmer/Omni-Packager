@@ -1,6 +1,8 @@
-Leverage Floflis Packager but not limited to it
+Leverage Floflis Packager but not limited to it. "omnipack floflis c2 pre-export"
+
+Support for .c2addon/.c3addon
 
 Support for Firefox OS and KaiOS apps
 
-Support for Snap, Flatpak and AppImage packaging
 Support for Cinnamon Spices
+Support for Snap, Flatpak and AppImage packaging
