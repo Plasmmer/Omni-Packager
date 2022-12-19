@@ -9,3 +9,5 @@ Support for Snap, Flatpak and AppImage packaging
 
 Support for Cordova and Electron apps
 https://www.edivaldobrito.com.br/cordova-no-linux/
+
+Support to VirusTotal
